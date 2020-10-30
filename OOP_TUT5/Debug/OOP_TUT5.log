@@ -1,0 +1,9 @@
+﻿  Dice.cpp
+  Game.cpp
+C:\Users\User\OneDrive - Sheffield Hallam University\Year 2\OOP_TUT5\OOP_TUT5\Game.cpp(6,1): error C2512: 'Dice': no appropriate default constructor available
+C:\Users\User\OneDrive - Sheffield Hallam University\Year 2\OOP_TUT5\OOP_TUT5\Dice.h(3,7): message : see declaration of 'Dice'
+  Player.cpp
+  RandomNumberGenerator.cpp
+  Score.cpp
+  Source.cpp
+  Generating Code...
